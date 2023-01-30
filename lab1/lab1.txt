@@ -1,0 +1,22 @@
+1. This took a lot more time than I expected but overall it seems to work well, I am not 
+so sure about the success rate but I estimate it to be around 95% becuase I tested 20 things, and
+it only gave me an error once. 
+
+2.  Bigram Model: 
+
+Leaving him in the philosophy of her young man should not
+village, and considered, therefore, such respectable family do
+Handsome! I must never any means of conversation, any
+piano-forte. She could have heard with Elizabeth saw her for
+villainy. Lord St Domingo, and who had better rooms
+
+
+ Trigram Model: 
+
+Get! -- and for a handsome young man ,
+drawn Robert into the doubtful room, the lesser duties
+is as good a one horse chaise. The time
+was hurrying back, not to begin abusing Miss Woodhouse
+the stretch of the parlour with only one day ,
+
+

@@ -1,0 +1,24 @@
+1. This took me a lot more time than I expected, but I think it works now. It worked for all the test cases that I tried except one. 
+I tried about 15 test cases. But did not formally test it for each file, as I copy pasted the text for each file.
+Given that it failed for one. I'd estimate the accuracy to be around 93%.
+
+2. 
+
+ Bigram Model: 
+
+Road-- his manner so fond of society bestowed till her
+tiresome, something better; she was readily made himself _her_
+fatigued; and her letters of your plan, said it
+rheumatisms, my mother, and their lives. I got
+charges. Emma then went away from Harley Street last adieus
+
+
+ Trigram Model: 
+
+Still exceeded that of a rubber of casino to the
+joyfully treasured her words were listened to them, Margaret
+them only have some active, cheerful, how ill
+moved back my chair, it was not one fell
+those arrangements for the gentleman and lady, you were
+
+3.
